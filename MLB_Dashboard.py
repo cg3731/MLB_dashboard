@@ -1,6 +1,6 @@
 from operator import index
 from matplotlib import markers
-from regex import I
+#from regex import I
 import statsapi
 import streamlit as st
 import pandas as pd
